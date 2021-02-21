@@ -1,3 +1,5 @@
+One of the my first console programs, enjoy!
+
 Please notice that generator is a bit diffrent than the one in full-game version,
 (only arguments given to fuctions differ)
 
